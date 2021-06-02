@@ -15,14 +15,14 @@
 	background: url('../images/logic_title_font_ds_extracondensed.png?v=1.0.3');
 }
 
-.proof-profile-title-sprites-ds.aai2_ds div.text span.letter{
+.logic-title-sprites-ds.aai2_ds div.text span.letter{
 	background-image: url('../images/logic_title_font_ds.png?v=1.0.3') !important;
 }
 
-.proof-profile-title-sprites-ds.condensed.aai2_ds div.text span.letter{
+.logic-title-sprites-ds.condensed.aai2_ds div.text span.letter{
 	background-image: url('../images/logic_title_font_ds_condensed.png?v=1.0.3') !important;
 }
-.proof-profile-title-sprites-ds.extra-condensed.aai2_ds div.text span.letter{
+.logic-title-sprites-ds.extra-condensed.aai2_ds div.text span.letter{
 	background-image: url('../images/logic_title_font_ds_extracondensed.png?v=1.0.3') !important;
 }
 

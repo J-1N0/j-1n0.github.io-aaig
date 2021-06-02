@@ -1996,7 +1996,7 @@ function aaig(){
 			} else if(configName == 'trigger-change-scale-fields'){
 				if(configValues == true){
 					if(previewConteinerFieldId == 'proof-profile-title-conteiner' || previewConteinerFieldId == 'logic-title-conteiner'){
-						if($automaticScaleField.is(':checked') && (selectedGame != 'aa123_ds' && selectedGame != 'aa4_ds' && selectedGame != 'aai_ds')){
+						if($automaticScaleField.is(':checked') && (selectedGame != 'aa123_ds' && selectedGame != 'aa4_ds' && selectedGame != 'aai_ds' && selectedGame != 'aai2_ds')){
 							$automaticScaleField.trigger('change');
 						} else {
 							$scaleField.trigger('change');
@@ -2347,7 +2347,7 @@ function aaig(){
 			}
 		} else if($.inArray(previewConteinerFieldId, ['proof-profile-title-conteiner', 'logic-title-conteiner']) !== -1){
 			// Proof / profile titles
-			checkAutomaticScale = ($checkboxAutomaticScale.is(':checked') && (game != 'aa123_ds' && game != 'aa4_ds' && game != 'aai_ds'));
+			checkAutomaticScale = ($checkboxAutomaticScale.is(':checked') && (game != 'aa123_ds' && game != 'aa4_ds' && game != 'aai_ds' && game != 'aai2_ds'));
 			if($checkboxBatchMode.is(':checked')){
 				text = $textfieldBatchMode.val();
 				var lines = text.split(/\n/);

@@ -192,21 +192,13 @@ a[aria-controls="sandbox"] span.glyphicon{
 	background-image: url('../images/logic_title_bg_aai2_ds.png');
 }
 #logic-title-conteiner.aai2_ds div.text{
+	text-align: center;
 	width: 80px;
 	transform-origin: 0 0;
 }
 
 .logic-title-sprites-ds.aai2_ds{
 	background-image: url('../images/logic_title_bg_aai2_ds.png') !important;
-}
-.proof-profile-title-sprites-ds.aai2_ds div.text{
-	width: 110px;
-	font-family: "Phoenix Wright";
-	text-align: left;
-	color: #ffffff;
-	transform-origin: 0 0;
-	font-smooth: never;
-	-webkit-font-smoothing : none;
 
 }
 	

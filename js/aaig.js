@@ -552,8 +552,8 @@ function aaig(){
 					'value': 2
 				},	
 				'margin-left': {
-					'min': -5,
-					'max': 30,
+					'min': -30,
+					'max': 60,
 					'value': 0
 				},
 				'letter-spacing': {

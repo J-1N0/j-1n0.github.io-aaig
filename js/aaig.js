@@ -534,8 +534,7 @@ function aaig(){
 				'trigger-change-scale-fields': true,
 				'trigger-keyup-text-fields': true
 				
-		},	
-		'logic-title-conteiner': {
+		        },	
 			'aai2_ds': {
 				'export-format': 'png',
 				'scale': {

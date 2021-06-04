@@ -545,6 +545,10 @@ function aaig(){
 				'font-size': 15,
 				'margin-top': {
 					'value': 2
+				'margin-left': {
+					'min': -30,
+					'max': 60,
+					'value': 16
 				},
 				'letter-spacing': {
 					'min': 1,

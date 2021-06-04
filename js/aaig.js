@@ -554,7 +554,7 @@ function aaig(){
 				'margin-left': {
 					'min': -30,
 					'max': 60,
-					'value': 0
+					'value': 25
 				},
 				'letter-spacing': {
 					'min': 1,
@@ -562,7 +562,7 @@ function aaig(){
 					'value': 1
 				},
 				'conteiner-class': 'logic-title-sprites-ds aai2_ds',
-				'conteiner-text-width': 110,
+				'conteiner-text-width': 120,
 				'comparative-image-src': 'images/logic_title_bg_filled_aai2_ds.png',
 				'show-font-3ds-field': false,
 				'show-font-ds-field': true,

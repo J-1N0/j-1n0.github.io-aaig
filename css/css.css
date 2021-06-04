@@ -202,7 +202,7 @@ a[aria-controls="sandbox"] span.glyphicon{
 .proof-profile-title-sprites-ds.aai2_ds div.text{
 	width: 110px;
 	font-family: "Phoenix Wright";
-	text-align: center;
+	text-align: left;
 	color: #ffffff;
 	transform-origin: 0 0;
 	font-smooth: never;

@@ -551,7 +551,7 @@ function aaig(){
 					'max': 3,
 					'value': 1
 				},
-				'conteiner-class': 'logic-title-sprites-ds',
+				'conteiner-class': 'logic-title-sprites-ds aai2_ds',
 				'conteiner-text-width': 184,
 				'comparative-image-src': 'images/logic_title_bg_filled_aai2_ds.png',
 				'show-font-3ds-field': false,

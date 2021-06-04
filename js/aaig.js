@@ -549,7 +549,7 @@ function aaig(){
 				'margin-left': {
 					'min': -30,
 					'max': 60,
-					'value': -5
+					'value': -12
 				},
 				'letter-spacing': {
 					'min': 1,

@@ -1665,7 +1665,7 @@ function aaig(){
 		var checkAutomaticScale = $checkboxAutomaticScale.is(':checked');
 
 		// Updating preview from the current line
-		if(($.inArray(game, ['aa123_ds', 'aa4_ds', 'aai_ds','aai2_ds']) !== -1) && ($.inArray(previewConteinerFieldId, ['proof-profile-title-conteiner', 'logic-button-conteiner', 'logic-title-conteiner', 'logic-description-conteiner']) !== -1)){
+		if(($.inArray(game, ['aa123_ds', 'aa4_ds', 'aai_ds', 'aai2_ds']) !== -1) && ($.inArray(previewConteinerFieldId, ['proof-profile-title-conteiner', 'logic-button-conteiner', 'logic-title-conteiner', 'logic-description-conteiner']) !== -1)){
 			this.updatePreviewSprites($divPreviewConteinerFieldText, current_line);
 		} else {
 			this.updatePreviewText($divPreviewConteinerFieldText, current_line, checkAutomaticScale);
@@ -2461,7 +2461,7 @@ function aaig(){
 			leftZeroes = 0;
 		}
 		
-		var checkUsingSprites = ($.inArray(game, ['aa123_ds', 'aa4_ds', 'aai_ds','aai2_ds']) !== -1) && ($tab.is("[id='proof-profile-titles'], [id='proof-profile-subtitles'], [id='proof-profile-descriptions'], [id='logic-buttons'], [id='logic-titles'], [id='logic-descriptions']"));
+		var checkUsingSprites = ($.inArray(game, ['aa123_ds', 'aa4_ds', 'aai_ds', 'aai2_ds']) !== -1) && ($tab.is("[id='proof-profile-titles'], [id='proof-profile-subtitles'], [id='proof-profile-descriptions'], [id='logic-buttons'], [id='logic-titles'], [id='logic-descriptions']"));
 		var i = 0;
 		var canvases = [];
 		var that = this;

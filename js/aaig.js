@@ -552,9 +552,9 @@ function aaig(){
 					'value': 2
 				},	
 				'margin-left': {
-					'min': -30,
-					'max': 60,
-					'value': -12
+					'min': -5,
+					'max': 30,
+					'value': 0
 				},
 				'letter-spacing': {
 					'min': 1,

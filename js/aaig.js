@@ -506,7 +506,7 @@ function aaig(){
 				'show-scale-field': false,
 				'trigger-keyup-text-fields': true,
 				'trigger-change-line-break-mode-field': true
-		
+			}	
 		},
 		'logic-title-conteiner': {
 			'aai_ds': {

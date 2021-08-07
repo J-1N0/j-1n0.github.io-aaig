@@ -387,8 +387,8 @@ function aaig(){
 					'value': 1
 				},
 				'font-3ds': 'Phoenix Wright',
-				'font-ds': 'a',
-				'font-size': 16,
+				'font-ds': 'Ace Attorney EU',
+				'font-size': 11,
 				'margin-top': {
 					'value': 0
 				},

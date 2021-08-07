@@ -282,6 +282,10 @@ a[aria-controls="sandbox"] span.glyphicon{
 }
 .proof-profile-description-sprites-ds.aa4_ds{
 	background-color: black;
+	font-family: "Ace Attorney EU";
+	font-size: 11;
+	color: #fff;
+	line-height: 1.35;	
 }
 .proof-profile-description-sprites-ds.aai{
 	background-image: url('../images/proof_profile_description_bg_aai_ds.png') !important;

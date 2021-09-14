@@ -181,7 +181,7 @@ a[aria-controls="sandbox"] span.glyphicon{
 }
 #logic-title-conteiner div.text{
 	width: 128px;
-	font-family: "Ace Check";
+	font-family: "Phoenix Wright";
 	text-align: center;
 	color: #ffffff;
 	transform-origin: 0 0;
@@ -193,6 +193,7 @@ a[aria-controls="sandbox"] span.glyphicon{
 }
 #logic-title-conteiner.aai2_ds div.text{
 	text-align: center;
+	font-family: "Ace Check";
 	width: 128px;
 	transform-origin: 25 0;
 }

@@ -546,7 +546,7 @@ function aaig(){
 					'value': 1
 				},
 				'font-3ds': 'Phoenix Wright',
-				'font-ds': 'a',
+				'font-ds': 'Ace Check',
 				'font-size': 15,
 				'margin-top': {
 					'value': 2
